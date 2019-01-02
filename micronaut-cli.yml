@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: sfgroupsjsonbinding
+---
+testFramework: spock
+sourceLanguage: groovy
