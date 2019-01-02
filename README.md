@@ -1,7 +1,4 @@
 ```
-$ curl -H "Content-Type: application/json" -d '{"name":"Jeff"}' http://localhost:8080/book
-{"name":"Jeff","id":1}
- $ 
  $ curl -H "Content-Type: application/json" -d '{"name":"Jeff"}' http://localhost:8080/book
 {"name":"Jeff","id":1}
  $ 
